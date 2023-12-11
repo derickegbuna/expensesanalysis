@@ -1,0 +1,8 @@
+{
+'Rent' : 1200,
+'Gas' : 200,
+'Food' : 500,
+'Clothing' : 100,
+'Car Payment' : 200,
+'Miscellaneous' : 100
+}
